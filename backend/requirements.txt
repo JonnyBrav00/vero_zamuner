@@ -1,0 +1,10 @@
+# Workspace version: 1.46.3
+databutton==0.38.34
+ipykernel==6.29.5
+uvicorn[standard]==0.34.2
+fastapi==0.115.12
+python-multipart==0.0.9
+openai
+beautifulsoup4
+requests
+stripe
